@@ -1,0 +1,29 @@
+header{
+    background-color: #75d0cd;
+    height:100px;
+}
+
+ul{
+    list-style:none
+}
+li{
+    float: left;
+    cursor: pointer;
+    font-size:30px;
+    display: flex;
+}
+
+.icon{
+    font-size:45px;
+    margin-right:40px;
+    color: white;
+    box-sizing: border-box;
+    display: flex;
+}
+
+h1{
+    margin-left:50px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
