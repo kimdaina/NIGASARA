@@ -16,7 +16,7 @@ export default function Navgation(){
   const isCall = location.pathname = '/call'  //문의 페이지
 
   return(
-    <header style={{ display: "flex", justifyContent: "space-between", alignItems: "center",position:"fixed"}}> {/*고정, 양 끝에 위치*/}
+    <header style={{ display: "flex", justifyContent: "space-between", alignItems: "center"}}> {/*고정, 양 끝에 위치*/}
       
       <h1 onClick={()=>{navgation("/main")}}>NIGASARA</h1>  {/*클릭 시 메인 페이지로 이동*/}
       <nav>

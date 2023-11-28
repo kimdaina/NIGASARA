@@ -1,11 +1,11 @@
-.snackS{
+.obj-box{
     text-align: center;
     width:200px;
     height: 300px;
     display: inline-block;
     width: 250px;
     height:350px;
-    margin:40px;
+    margin: 40px;
     border-radius: 20px;
     background-color: rgb(255, 255, 255);
     
@@ -31,4 +31,3 @@ h5{
     font-weight: bold;
     font-size: 25px;
 }
-    
